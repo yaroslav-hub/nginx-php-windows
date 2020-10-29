@@ -1,0 +1,54 @@
+2020/10/28 23:23:54 [error] 8552#1928: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "POST /ajax/check_auth.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost", referrer: "http://localhost/login"
+2020/10/28 23:24:01 [notice] 2748#8572: signal process started
+2020/10/28 23:37:47 [notice] 4316#6960: signal process started
+2020/10/28 23:44:37 [notice] 11552#6596: signal process started
+2020/10/29 00:30:15 [notice] 11272#6792: signal process started
+2020/10/29 00:31:26 [notice] 9196#1612: signal process started
+2020/10/29 00:32:29 [notice] 11108#6484: signal process started
+2020/10/29 00:33:02 [notice] 13164#12980: signal process started
+2020/10/29 00:49:13 [notice] 12780#11576: signal process started
+2020/10/29 00:49:18 [notice] 1228#11748: signal process started
+2020/10/29 00:49:59 [notice] 7096#7744: signal process started
+2020/10/29 00:51:07 [notice] 11752#1148: signal process started
+2020/10/29 00:52:14 [notice] 4552#5096: signal process started
+2020/10/29 15:03:36 [notice] 7520#13804: signal process started
+2020/10/29 15:03:53 [notice] 11544#6352: signal process started
+2020/10/29 15:03:53 [error] 11544#6352: CreateFile() "C:\server\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/10/29 15:05:29 [notice] 11160#13800: signal process started
+2020/10/29 15:06:26 [notice] 6508#3596: signal process started
+2020/10/29 15:07:15 [notice] 7896#7948: signal process started
+2020/10/29 15:20:42 [notice] 264#12816: signal process started
+2020/10/29 15:22:15 [notice] 12472#10476: signal process started
+2020/10/29 15:26:10 [notice] 7260#14208: signal process started
+2020/10/29 15:26:11 [notice] 5012#13436: signal process started
+2020/10/29 15:26:11 [error] 5012#13436: CreateFile() "C:\server\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/10/29 15:26:12 [notice] 11868#4968: signal process started
+2020/10/29 15:26:12 [error] 11868#4968: CreateFile() "C:\server\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/10/29 15:27:48 [notice] 1460#12164: signal process started
+2020/10/29 15:31:34 [notice] 6548#13604: signal process started
+2020/10/29 15:31:48 [error] 8256#1188: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ajax/login.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost"
+2020/10/29 15:47:50 [notice] 1216#9048: signal process started
+2020/10/29 16:03:25 [notice] 13624#6300: signal process started
+2020/10/29 16:04:07 [notice] 8028#13508: signal process started
+2020/10/29 16:04:18 [notice] 1368#14220: signal process started
+2020/10/29 16:12:40 [notice] 14036#10472: signal process started
+2020/10/29 16:13:03 [notice] 8944#7524: signal process started
+2020/10/29 16:14:14 [error] 9776#4932: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ajax/login.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost"
+2020/10/29 16:14:30 [notice] 11488#5764: signal process started
+2020/10/29 16:22:27 [notice] 5508#7956: signal process started
+2020/10/29 16:22:27 [error] 5508#7956: CreateFile() "C:\server\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/10/29 16:22:28 [notice] 11120#2032: signal process started
+2020/10/29 16:22:28 [error] 11120#2032: CreateFile() "C:\server\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/10/29 16:22:28 [notice] 7260#12536: signal process started
+2020/10/29 16:22:28 [error] 7260#12536: CreateFile() "C:\server\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/10/29 16:29:01 [notice] 3644#9768: signal process started
+2020/10/29 18:56:17 [notice] 13652#1648: signal process started
+2020/10/29 18:56:56 [notice] 8580#13608: signal process started
+2020/10/29 18:57:09 [notice] 5496#14020: signal process started
+2020/10/29 18:58:39 [notice] 6540#13964: signal process started
+2020/10/29 18:59:00 [notice] 6428#4580: signal process started
+2020/10/29 18:59:07 [error] 13892#2088: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ajax/login.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost"
+2020/10/29 19:15:43 [error] 12596#12344: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ajax/login.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost"
+2020/10/29 19:15:47 [notice] 14132#3728: signal process started
+2020/10/29 19:15:51 [error] 12596#12344: *6 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ajax/login.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost"
+2020/10/29 19:39:27 [error] 8840#2576: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ajax/login.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost"

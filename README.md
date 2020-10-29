@@ -8,7 +8,7 @@ If you know how servers are working and how they handle requests from user (brow
 ## Getting-Started
 So now I will explain you how to use my build. (It is very easy). You can start your App just in **3 steps**.
 #### 1. Downloading.
-First of all you have to download this repository ("clone" button) and place the `server` folder in your C-disk directory. It is very importand, because if you will place it with your own path, it will not work (for this case you can read [this](thhps://google.com))!
+First of all you have to download this repository ("clone" button) and place the `server` folder in your C-disk directory. It is very importand, because if you will place it with your own path, it will not work (for this case you can read [this](https://google.com) )!
 #### 2. Transfering your App (files).
 Second step is placing your App-files for running them on server. As you can guess, `root` folder in `server` is **root** directory for Nginx. So here are some variants of completting this step:
 * React JS ...
@@ -24,3 +24,5 @@ Have you complited all 3 steps consistently? If yes, you can open your browser a
 In this build I used soft from official resources. Here is there list:
 * Nginx Server `1.19.4` [27 Oct 2020] -> <https://nginx.org>
 * PHP-interpreter `7.4.12` [29 Oct 2020] -> <https://php.net>
+___
+This Server-Build and README file was made by Yaroslav ( [GitHub](https://github.com/yaroslav-hub), [Telegram](https://t.me/yaroslavhub) ).
